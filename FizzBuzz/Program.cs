@@ -29,6 +29,8 @@ namespace FizzBuzz
                     Console.WriteLine(i);
                 }
             }
+
+            Console.WriteLine("This is a change for the branch demo");
         }
     }
 }
